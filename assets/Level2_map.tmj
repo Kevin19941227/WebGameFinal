@@ -146,7 +146,7 @@
         {
          "columns":4,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/..\/Downloads\/-textures.jpg",
+         "image":"assets/-textures.jpg",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
